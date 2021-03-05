@@ -10,3 +10,4 @@ $exops = Connect-ExchangeOnline -AppId "6676ec88-10b8-4ab9-9178-186819908e14" `
 
 Get-PSSession | Select-Object -Property State, Name
 #Get-PSSession | Format-List
+#test
