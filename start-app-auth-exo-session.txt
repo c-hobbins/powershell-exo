@@ -1,0 +1,3 @@
+
+Connect-ExchangeOnline -AppId "6676ec88-10b8-4ab9-9178-186819908e14" -CertificateFilePath "/home/chad/repos/angular/powershell/ssc-exo.pfx" -CertificatePassword (ConvertTo-SecureString -String "Password1!" -AsPlainText -Force) -Organization "sscsmarch.onmicrosoft.com"
+

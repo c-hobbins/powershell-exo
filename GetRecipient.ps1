@@ -1,0 +1,1 @@
+Get-EXORecipient -RecipientType MailContact -PropertySet Minimum -Properties PrimarySmtpAddress, ExternalEmailAddress -Filter "FirstName -like 'Home*' -and LastName -like 'Simpson*'"

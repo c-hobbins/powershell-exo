@@ -1,0 +1,8 @@
+appid: 6676ec88-10b8-4ab9-9178-186819908e14
+tenantid: f834d586-7ba4-42db-b4bf-aa3b47ed2b45
+secret: RAVMvLD~R~QcymMs7i1d.ZnvefR_ZEb9R1
+
+https://login.microsoftonline.com/f834d586-7ba4-42db-b4bf-aa3b47ed2b45/oauth2/v2.0/token
+https://login.microsoftonline.com/f834d586-7ba4-42db-b4bf-aa3b47ed2b45/oauth2/v2.0/authorize
+
+https://graph.microsoft.com
